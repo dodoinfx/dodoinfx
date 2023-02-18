@@ -8,10 +8,32 @@
 <h3 align="center">I AM A BEGINNER FROM NEPAL</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
-## CURRENTLY I'M LEARNING
--[JavaScript](https://www.javascript.com/)
-
--[NodeJs](https://nodejs.org/en/)
+🛠️ **Stuffs I am learning (Languages,Tools and Others):**
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
+![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Vue](https://img.shields.io/badge/-Vuejs-black?style=for-the-badge&logo=vue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=1572B6)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins&logoColor=D24939)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logo=elasticsearch)
+![GraphQl](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
 
 ## TROPHIES THAT I'VE ACHIEVED
 
